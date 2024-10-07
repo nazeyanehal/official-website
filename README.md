@@ -68,3 +68,19 @@ We are excited to build and improve this website with the help of our community.
 For any questions or further discussions, feel free to reach out to us on our Discord server: [Click here to join](https://discord.gg/MSTNyRSPYW)
 
 Happy coding!
+
+## Contributors
+
+Thank you to all the amazing contributors who make this project better!
+
+<a href="https://github.com/username1" target="_blank">
+  <img src="https://github.com/username1.png" width="100" height="100" alt="username1">
+</a>
+<a href="https://github.com/username2" target="_blank">
+  <img src="https://github.com/username2.png" width="100" height="100" alt="username2">
+</a>
+<a href="https://github.com/username3" target="_blank">
+  <img src="https://github.com/username3.png" width="100" height="100" alt="username3">
+</a>
+
+<!-- Add more contributors as needed using the same format -->
